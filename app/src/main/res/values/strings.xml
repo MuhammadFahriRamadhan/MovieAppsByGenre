@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    <string name="detail">Detail</string>
+    <string name="release_date">releasedate</string>
+    <string name="str_overview">overview</string>
+    <string name="str_title">title</string>
+    <string name="cast">CAST</string>
+    <string name="tv_title">A Very Long Title Of The Movie</string>
+    <string name="tv_rating">RATING</string>
+    <string name="tv_release">RELEASE</string>
+    <string name="tv_popularity">POPULARITY</string>
+    <string name="tv_ratingdec">10.0</string>
+</resources>
